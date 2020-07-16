@@ -1,5 +1,5 @@
 # What it is
-+ text_detection in real time through a webcam.
++ detect text in real time through a webcam.
 
 # How to use
 + [DownLoad](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
