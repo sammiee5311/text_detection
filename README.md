@@ -3,7 +3,7 @@ text_detection in real time through a webcam.
 
 # How to use
 + [DownLoad](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
-load main.py
++ load main.py
 
 # Image
 ![](./img.png)
