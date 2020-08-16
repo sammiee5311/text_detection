@@ -3,7 +3,7 @@
 
 ## How to use
 + [downLoad](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
-+ load main.py
++ download main.py
 
 ## Image
 ![](./img.png)
