@@ -2,7 +2,7 @@
 + detect text in real time through a webcam by using tesseract ocr.
 
 ## How to use
-+ [downLoad](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
++ [download](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
 + download main.py
 
 ## Image
