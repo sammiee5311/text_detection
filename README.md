@@ -3,7 +3,10 @@
 
 ## How to use
 + [download](https://tesseract-ocr.github.io/tessdoc/Downloads.html) Tesseract ocr
-+ download main.py
+
+## Requirements
++ pytesseract
++ opencv
 
 ## Image
 ![](./img.png)
